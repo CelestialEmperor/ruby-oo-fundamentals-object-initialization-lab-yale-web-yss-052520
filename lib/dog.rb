@@ -10,4 +10,8 @@ class Dog
   def name
     @name
   end
+  
+  def breed
+    @Mutt
+  end
 end
